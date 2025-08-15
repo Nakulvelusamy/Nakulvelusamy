@@ -1,5 +1,5 @@
 # 💫 About Me:
-**👨‍💻 currently working on**<br>Building scalable full-stack applications using Python Flask & MERN Stack  <br>Integrating cloud-based AI solutions into real-world projects  <br><br>**🤝 Hands to collaborate **<br>Innovative web development projects  <br>AI, machine learning, and cloud-based systems  <br><br> **🙋‍♂️ looking for help with**<br>Advanced AWS cloud architecture & deployment strategies  <br><br>**🌱currently learning**<br>AWS Certified Cloud Practitioner concepts  <br>System design and microservices architecture  <br><br>**💬 Ask me about**<br>Full Stack Development (Python & MERN)  <br>REST API Development  <br>Hackathon experiences (SIH Winner, Skilled Hackathon Winner)  <br><br>**⚡ Fun fact**<br>I once turned a last-minute hackathon disqualification into a first-place win with an entirely new team!  <br><br>**🛠 Tech I Use**<br><br>**Languages:**  <br>Java, Python, C/C++, JavaScript, HTML, CSS, SQL  <br><br>**Frameworks:**  <br>Flask, React, Node.js, Express.js, FastAPI, Material-UI  <br><br>**Databases:**  <br>MongoDB, PostgreSQL, Firebase  <br><br>**Cloud & Tools:**  <br>AWS Cloud, Google Cloud Platform, Docker, Git, GitHub, VS Code, PyCharm, IntelliJ  <br><br>**Libraries:**  <br>pandas, NumPy, Matplotlib, OpenCV  <br>
+**👨‍💻 currently working on**<br>Building scalable full-stack applications using Python Flask & MERN Stack  <br>Integrating cloud-based AI solutions into real-world projects  <br><br>**🤝 Hands to collaborate**<br>Innovative web development projects  <br>AI, machine learning, and cloud-based systems  <br><br>**🙋‍♂️ looking for help with**<br>Advanced AWS cloud architecture & deployment strategies  <br><br>**🌱 currently learning**<br>AWS Certified Cloud Practitioner concepts  <br>System design and microservices architecture  <br><br>**💬 Ask me about**<br>Full Stack Development (Python & MERN)  <br>REST API Development  <br>Hackathon experiences (SIH Winner, Skilled Hackathon Winner)  <br><br>**⚡ Fun fact**<br>I once turned a last-minute hackathon disqualification into a first-place win with an entirely new team!  <br><br>**🛠 Tech I Use**<br><br>**Languages:**  <br>Java, Python, C/C++, JavaScript, HTML, CSS, SQL  <br><br>**Frameworks:**  <br>Flask, React, Node.js, Express.js, FastAPI, Material-UI  <br><br>**Databases:**  <br>MongoDB, PostgreSQL, Firebase  <br><br>**Cloud & Tools:**  <br>AWS Cloud, Google Cloud Platform, Docker, Git, GitHub, VS Code, PyCharm, IntelliJ  <br><br>**Libraries:**  <br>pandas, NumPy, Matplotlib, OpenCV  <br>
 
 
 ## 🌐 Socials:
@@ -11,6 +11,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=Nakulvelusamy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Nakulvelusamy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakulvelusamy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Nakulvelusamy&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
